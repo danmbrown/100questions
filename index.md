@@ -56,7 +56,7 @@
 
 [Is there anything else you think I should know about?]
 
-[Is there anything else you want to talk about?]
+[[Is there anything else you want to talk about?]]
 
 [Of your colleagues, who has the least understanding of what you do?]
 
@@ -170,7 +170,7 @@
 
 [What's the biggest challenge you faced last week?]
 
-[What's the most important thing for us to get right?]
+[What's the most important thing for us to get right?](What's the most important thing for us to get right?)
 
 [What's your favorite part of the job?]
 
