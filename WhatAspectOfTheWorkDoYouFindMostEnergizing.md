@@ -1,3 +1,5 @@
+| back to [the List](index.md) |
+
 # What aspect of the work do you find most energizing?
 ## What I'm asking
 Every job has its ups and downs. There are different kinds of ups, but as someone invested in another's career, I need to understand what makes them feel alive. Working in product design or user experience engages many different skill sets and can therefore be exhausting. That said, one particular set of skills may trigger a flow state in someone.

@@ -1,3 +1,5 @@
+| back to [the List](index.md) |
+
 # How would you explain this concept in your own words?
 ## What I'm asking
 A concept, unlike a product or a feature, is abstract and intangible. I ask people to explain a concept to understand their underlying mental model, how they explain a difficult idea to themselves. Using the word "explain" here implies that there is a learning curve, a complexity that needs to be unpacked.

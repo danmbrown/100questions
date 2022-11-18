@@ -1,3 +1,5 @@
+| back to [the List](index.md) |
+
 # What's the most important thing for us to get right?
 ## What I'm asking
 This question is always in the context of a design problem, perhaps dealing with the design of an entire product or a specific feature. This question re-frames and combines a few different "standard" interview questions. It gets at what someone might be worried about. It gets at what they perceive to be essential for success. It can also draw to the surface their perception of the key user need. Finally, it asks them to define the central problem. The tilt of their response -- which angle they take to answer the question -- offers some insight into how they approach projects like this one.

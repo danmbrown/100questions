@@ -1,3 +1,5 @@
+| back to [the List](index.md) |
+
 # How does this observation impact the design?
 ## What I'm asking
 What I'm really asking is, "So what?" That is, observations made about a product's users or domain or stakeholders isn't helpful until you can extrapolate it into a principle or guideline for the design team. An observation on its own is not a design tool. An observation paired with an implication, on the other hand, is very powerful.

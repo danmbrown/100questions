@@ -1,3 +1,5 @@
+| back to [the List](index.md) |
+
 # How do we draw people into this process?
 ## What I'm asking
 Creative work demands multiple perspectives. Nothing else I've learned about the creative process looms as large in my mind. When I ask about drawing others into the process, I'm asking how we can involve more perspectives in the work. I raise this question because many activities in design are historically or temptingly solitary, but they don't have to be.
