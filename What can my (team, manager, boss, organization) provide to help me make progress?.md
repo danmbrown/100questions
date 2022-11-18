@@ -6,6 +6,8 @@ Professional growth comes at a cost -- it's only fair that your employer foots s
 ## Who to ask
 The person at your organization responsible for your professional growth -- your manager -- is the best person to ask, but not the only person to ask. Colleagues -- both inside and outside your organization -- can offer insights about what their employers provided to help them growh.
 
+Direct this question at yourself, too, asking in effect "What do I need to accomplish my goals?" By thinking through this question, you can prepare yourself for the conversation. You can also think more broadly about your career path, and how it can be supported by more than your own personal effort.
+
 ## What to expect
 More often that not, managers do not have a ready answer for this question. They'll turn it right around and ask you what you need. Come to your meeting with some requests. Even a generous employer might not have much imagination, hoping only to throw money at it. You can also ask for time to pursue growth. Better yet, ask for assignments where you can learn (and potentially fail) or ask for the time of a senior practitioner who can guide you. 
 
@@ -17,10 +19,12 @@ A suggestion is not a commitment. Ask your manager what it will take to make the
 
 ## Other ways to ask
 ### Shift the target
+
 > What can I do to help you make progress?
 
 
 
 ### Narrow the scope
+
 > What can my (team, manager, boss, organization) provide to help me complete this task?
 
