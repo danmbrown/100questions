@@ -82,7 +82,7 @@
 
 * [What aspects of the users describe the biggest differences between them?](WhatAspectsOfTheUsersDescribeTheBiggestDifferencesBetweenThem)
 
-* [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMy(TeamManagerBossOrganization)ProvideToHelpMeMakeProgress)
+* [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
 
 * [What considerations factor into your decision-making?](WhatConsiderationsFactorIntoYourDecision-Making)
 
@@ -174,7 +174,7 @@
 
 * [What's the biggest challenge you faced last week?](WhatsTheBiggestChallengeYouFacedLastWeek)
 
-* [What's the most important thing for us to get right?(What's the most important thing for us to get right?)](WhatsTheMostImportantThingForUsToGetRight(WhatsTheMostImportantThingForUsToGetRight))
+* [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
 
 * [What's your favorite part of the job?](WhatsYourFavoritePartOfTheJob)
 
