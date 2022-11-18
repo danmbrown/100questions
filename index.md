@@ -1,207 +1,211 @@
-[Are there any topics that are off limits?](Are there any topics that are off limits?)
 
-[How are things different one year from now?]
+# 100 Questions (or more)
+### by [Dan Brown](https://www.linkedin.com/in/danmbrown/)
 
-[How are we sacrificing the user's time or money to support our own goals?]
+* [Are there any topics that are off limits?](AreThereAnyTopicsThatAreOffLimits)
 
-[How can we bring this effort to a good conclusion?]
+* [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
 
-[How do we draw people into this process?]
+* [How are we sacrificing the user's time or money to support our own goals?](HowAreWeSacrificingTheUsersTimeOrMoneyToSupportOurOwnGoals)
 
-[How do you accommodate change?]
+* [How can we bring this effort to a good conclusion?](HowCanWeBringThisEffortToAGoodConclusion)
 
-[How do you see the problem differently?]
+* [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
 
-[How do you stay up to date?]
+* [How do you accommodate change?](HowDoYouAccommodateChange)
 
-[How does this fit into the narrative of the project?]
+* [How do you see the problem differently?](HowDoYouSeeTheProblemDifferently)
 
-[How does this move the project forward?]
+* [How do you stay up to date?](HowDoYouStayUpToDate)
 
-[How does this observation impact the design?]
+* [How does this fit into the narrative of the project?](HowDoesThisFitIntoTheNarrativeOfTheProject)
 
-[How does what I'm doing help me meet my goal or objective?]
+* [How does this move the project forward?](HowDoesThisMoveTheProjectForward)
 
-[How does your decision-making change over the course of a year?]
+* [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
 
-[How is this different from what you expected?]
+* [How does what I'm doing help me meet my goal or objective?](HowDoesWhatImDoingHelpMeMeetMyGoalOrObjective)
 
-[How might a bad actor take advantage of the system?]
+* [How does your decision-making change over the course of a year?](HowDoesYourDecision-MakingChangeOverTheCourseOfAYear)
 
-[How would I do this differently next time?]
+* [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected)
 
-[How would you characterize the design problem?]
+* [How might a bad actor take advantage of the system?](HowMightABadActorTakeAdvantageOfTheSystem)
 
-[How would you characterize the users of this product?]
+* [How would I do this differently next time?](HowWouldIDoThisDifferentlyNextTime)
 
-[How would you characterize your working relationship with other members of the team?]
+* [How would you characterize the design problem?](HowWouldYouCharacterizeTheDesignProblem)
 
-[How would you describe this product in your own words?]
+* [How would you characterize the users of this product?](HowWouldYouCharacterizeTheUsersOfThisProduct)
 
-[How would you explain this concept in your own words?]
+* [How would you characterize your working relationship with other members of the team?](HowWouldYouCharacterizeYourWorkingRelationshipWithOtherMembersOfTheTeam)
 
-[How would you have done this differently?]
+* [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
 
-[If I try something new, what do I expect to learn from it?]
+* [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 
-[If you could ask someone from the target user group one question, what would you ask?]
+* [How would you have done this differently?](HowWouldYouHaveDoneThisDifferently)
 
-[If you could change one thing about this product, what would it be?]
+* [If I try something new, what do I expect to learn from it?](IfITrySomethingNewWhatDoIExpectToLearnFromIt)
 
-[If you were coaching someone else about this product, what advice would you give them?]
+* [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
 
-[If you were to meet them halfway, what would a compromise look like?]
+* [If you could change one thing about this product, what would it be?](IfYouCouldChangeOneThingAboutThisProductWhatWouldItBe)
 
-[If you'd had this product in hand last week, what would you have done with it?]
+* [If you were coaching someone else about this product, what advice would you give them?](IfYouWereCoachingSomeoneElseAboutThisProductWhatAdviceWouldYouGiveThem)
 
-[Is there anything else you think I should know about?]
+* [If you were to meet them halfway, what would a compromise look like?](IfYouWereToMeetThemHalfwayWhatWouldACompromiseLookLike)
 
-[[Is there anything else you want to talk about?]]
+* [If you'd had this product in hand last week, what would you have done with it?](IfYoudHadThisProductInHandLastWeekWhatWouldYouHaveDoneWithIt)
 
-[Of your colleagues, who has the least understanding of what you do?]
+* [Is there anything else you think I should know about?](IsThereAnythingElseYouThinkIShouldKnowAbout)
 
-[What about this activity makes me feel dread?]
+* [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
 
-[What about this situation made me so upset?]
+* [Of your colleagues, who has the least understanding of what you do?](OfYourColleaguesWhoHasTheLeastUnderstandingOfWhatYouDo)
 
-[What are the kinds of decisions you make in a typical week?]
+* [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
 
-[What are the risks with this approach?]
+* [What about this situation made me so upset?](WhatAboutThisSituationMadeMeSoUpset)
 
-[What are you most proud of?]
+* [What are the kinds of decisions you make in a typical week?](WhatAreTheKindsOfDecisionsYouMakeInATypicalWeek)
 
-[What are you working on this week?]
+* [What are the risks with this approach?](WhatAreTheRisksWithThisApproach)
 
-[What aspect of the work do you find most draining?]
+* [What are you most proud of?](WhatAreYouMostProudOf)
 
-[What aspect of the work do you find most energizing?]
+* [What are you working on this week?](WhatAreYouWorkingOnThisWeek)
 
-[What aspects of the users describe the biggest differences between them?]
+* [What aspect of the work do you find most draining?](WhatAspectOfTheWorkDoYouFindMostDraining)
 
-[What can my (team, manager, boss, organization) provide to help me make progress?]
+* [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
 
-[What considerations factor into your decision-making?]
+* [What aspects of the users describe the biggest differences between them?](WhatAspectsOfTheUsersDescribeTheBiggestDifferencesBetweenThem)
 
-[What do people need to know to participate fully?]
+* [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMy(TeamManagerBossOrganization)ProvideToHelpMeMakeProgress)
 
-[What do you expect to see come out of the other end of this process?]
+* [What considerations factor into your decision-making?](WhatConsiderationsFactorIntoYourDecision-Making)
 
-[What do you imagine is the hardest part of this effort?]
+* [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
 
-[What do you need to make progress on your tasks?]
+* [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
 
-[What do you want people to take away from this?]
+* [What do you imagine is the hardest part of this effort?](WhatDoYouImagineIsTheHardestPartOfThisEffort)
 
-[What does a typical week look like for you?]
+* [What do you need to make progress on your tasks?](WhatDoYouNeedToMakeProgressOnYourTasks)
 
-[What does our product do to change the lives of our users?]
+* [What do you want people to take away from this?](WhatDoYouWantPeopleToTakeAwayFromThis)
 
-[What feedback would be most helpful right now?]
+* [What does a typical week look like for you?](WhatDoesATypicalWeekLookLikeForYou)
 
-[What gets in the way of you making a decision?]
+* [What does our product do to change the lives of our users?](WhatDoesOurProductDoToChangeTheLivesOfOurUsers)
 
-[What happens first?]
+* [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow)
 
-[What happens next?]
+* [What gets in the way of you making a decision?](WhatGetsInTheWayOfYouMakingADecision)
 
-[What hypothesis does this work reflect or represent?]
+* [What happens first?](WhatHappensFirst)
 
-[What information would be most helpful to you in this process?]
+* [What happens next?](WhatHappensNext)
 
-[What is expected of a designer's performance?]
+* [What hypothesis does this work reflect or represent?](WhatHypothesisDoesThisWorkReflectOrRepresent)
 
-[What is holding me back or getting in my way?]
+* [What information would be most helpful to you in this process?](WhatInformationWouldBeMostHelpfulToYouInThisProcess)
 
-[What is my hypothesis?]
+* [What is expected of a designer's performance?](WhatIsExpectedOfADesignersPerformance)
 
-[What is one thing I can do differently next time?]
+* [What is holding me back or getting in my way?](WhatIsHoldingMeBackOrGettingInMyWay)
 
-[What is one thing I can do right now to ease my stress or anxiety?]
+* [What is my hypothesis?](WhatIsMyHypothesis)
 
-[What is one thing we didn't talk about but should have?]
+* [What is one thing I can do differently next time?](WhatIsOneThingICanDoDifferentlyNextTime)
 
-[What is one thing your organization can be doing better for its users?]
+* [What is one thing I can do right now to ease my stress or anxiety?](WhatIsOneThingICanDoRightNowToEaseMyStressOrAnxiety)
 
-[What is standing in your way?]
+* [What is one thing we didn't talk about but should have?](WhatIsOneThingWeDidntTalkAboutButShouldHave)
 
-[What is the biggest decision you had to make recently?]
+* [What is one thing your organization can be doing better for its users?](WhatIsOneThingYourOrganizationCanBeDoingBetterForItsUsers)
 
-[What is the biggest misconception about this domain?]
+* [What is standing in your way?](WhatIsStandingInYourWay)
 
-[What is the one thing I can do to add value or make progress?]
+* [What is the biggest decision you had to make recently?](WhatIsTheBiggestDecisionYouHadToMakeRecently)
 
-[What is your current level of motivation?]
+* [What is the biggest misconception about this domain?](WhatIsTheBiggestMisconceptionAboutThisDomain)
 
-[What is your role in making decisions for the organization?]
+* [What is the one thing I can do to add value or make progress?](WhatIsTheOneThingICanDoToAddValueOrMakeProgress)
 
-[What kind of feedback would be most helpful?]
+* [What is your current level of motivation?](WhatIsYourCurrentLevelOfMotivation)
 
-[What made this hard?]
+* [What is your role in making decisions for the organization?](WhatIsYourRoleInMakingDecisionsForTheOrganization)
 
-[What makes this problem unique?]
+* [What kind of feedback would be most helpful?](WhatKindOfFeedbackWouldBeMostHelpful)
 
-[What makes this the most important thing for us to work on right now?]
+* [What made this hard?](WhatMadeThisHard)
 
-[What message are you trying to convey?]
+* [What makes this problem unique?](WhatMakesThisProblemUnique)
 
-[What problem are you working on right now that this product might help you with?]
+* [What makes this the most important thing for us to work on right now?](WhatMakesThisTheMostImportantThingForUsToWorkOnRightNow)
 
-[What purpose does this serve?]
+* [What message are you trying to convey?](WhatMessageAreYouTryingToConvey)
 
-[What questions are we trying to answer?]
+* [What problem are you working on right now that this product might help you with?](WhatProblemAreYouWorkingOnRightNowThatThisProductMightHelpYouWith)
 
-[What questions will remain unanswered?]
+* [What purpose does this serve?](WhatPurposeDoesThisServe)
 
-[What role do you want to play on this project?]
+* [What questions are we trying to answer?](WhatQuestionsAreWeTryingToAnswer)
 
-[What role does your organization play in the lives of the users?]
+* [What questions will remain unanswered?](WhatQuestionsWillRemainUnanswered)
 
-[What should we talk about first?]
+* [What role do you want to play on this project?](WhatRoleDoYouWantToPlayOnThisProject)
 
-[What steps do I need to take to meet this goal?]
+* [What role does your organization play in the lives of the users?](WhatRoleDoesYourOrganizationPlayInTheLivesOfTheUsers)
 
-[What story are you trying to tell?]
+* [What should we talk about first?](WhatShouldWeTalkAboutFirst)
 
-[What surprised you?]
+* [What steps do I need to take to meet this goal?](WhatStepsDoINeedToTakeToMeetThisGoal)
 
-[What tasks do we expect users to accomplish with this product/feature?]
+* [What story are you trying to tell?](WhatStoryAreYouTryingToTell)
 
-[What were you expecting to see but is missing?]
+* [What surprised you?](WhatSurprisedYou)
 
-[What's the biggest challenge you faced last week?]
+* [What tasks do we expect users to accomplish with this product/feature?](WhatTasksDoWeExpectUsersToAccomplishWithThisProduct/Feature)
 
-[What's the most important thing for us to get right?](What's the most important thing for us to get right?)
+* [What were you expecting to see but is missing?](WhatWereYouExpectingToSeeButIsMissing)
 
-[What's your favorite part of the job?]
+* [What's the biggest challenge you faced last week?](WhatsTheBiggestChallengeYouFacedLastWeek)
 
-[When you picture the final product, how big is it?]
+* [What's the most important thing for us to get right?(What's the most important thing for us to get right?)](WhatsTheMostImportantThingForUsToGetRight(WhatsTheMostImportantThingForUsToGetRight))
 
-[When you've worked with other teams, what's worked well?]
+* [What's your favorite part of the job?](WhatsYourFavoritePartOfTheJob)
 
-[Where do you expect us to spend the most time?]
+* [When you picture the final product, how big is it?](WhenYouPictureTheFinalProductHowBigIsIt)
 
-[Where is the leadership team least aligned?]
+* [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
-[Which aspect of this work was the hardest?]
+* [Where do you expect us to spend the most time?](WhereDoYouExpectUsToSpendTheMostTime)
 
-[Who are the different people you work with?]
+* [Where is the leadership team least aligned?](WhereIsTheLeadershipTeamLeastAligned)
 
-[Who are your customers and stakeholders?]
+* [Which aspect of this work was the hardest?](WhichAspectOfThisWorkWasTheHardest)
 
-[Who else is important to this process?]
+* [Who are the different people you work with?](WhoAreTheDifferentPeopleYouWorkWith)
 
-[Who else should I speak to?]
+* [Who are your customers and stakeholders?](WhoAreYourCustomersAndStakeholders)
 
-[Who is harmed by this?]
+* [Who else is important to this process?](WhoElseIsImportantToThisProcess)
 
-[Why am I talking right now?]
+* [Who else should I speak to?](WhoElseShouldISpeakTo)
 
-[With whom do you collaborate regularly?]
+* [Who is harmed by this?](WhoIsHarmedByThis)
 
-[Is there anything I can do to take this to the next level?]
+* [Why am I talking right now?](WhyAmITalkingRightNow)
 
-[Where does this idea fit into the process: hypothesis? rough concept?]
+* [With whom do you collaborate regularly?](WithWhomDoYouCollaborateRegularly)
 
-[What aspects of this will your stakeholders be most interested in or concerned about?]
+* [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
 
-[Do you know what your priorities are?]
+* [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
+
+* [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
+
+* [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)

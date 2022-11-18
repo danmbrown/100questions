@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "If you could ask someone from the target user group one question, what would you ask?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "If you could ask someone from the target user group one question, what would you ask?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "If you could ask someone from the target user group one question, what would you ask?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "If you could ask someone from the target user group one question, what would you ask?.md"
               }
             }
           }
@@ -138,8 +138,11 @@
   },
   "active": "f4002eb33efc2047",
   "lastOpenFiles": [
+    "HowWouldYouDescribeThisProductInYourOwnWords.md",
+    "HowDoesThisObservationImpactTheDesign.md",
+    "HowDoWeDrawPeopleIntoThisProcess.md",
+    "index.md",
     "What can my (team, manager, boss, organization) provide to help me make progress?.md",
-    "What's the most important thing for us to get right?.md",
-    "index.md"
+    "What's the most important thing for us to get right?.md"
   ]
 }
