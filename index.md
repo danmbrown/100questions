@@ -1,4 +1,3 @@
-# 100 Questions (or more)
 **by [Dan Brown](https://www.linkedin.com/in/danmbrown/)**
 
 *"The question is our most important tool." -- Erika Hall*
