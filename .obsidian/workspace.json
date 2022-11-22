@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowDoesThisObservationImpactTheDesign.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowDoesThisObservationImpactTheDesign.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowDoesThisObservationImpactTheDesign.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowDoesThisObservationImpactTheDesign.md"
+                "file": "index.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "f4002eb33efc2047",
   "lastOpenFiles": [
+    "HowAreThingsDifferentOneYearFromNow.md",
+    "_Template.md",
+    "index.md",
+    "HowDoesThisObservationImpactTheDesign.md",
     "AreThereAnyTopicsThatAreOffLimits.md",
     "Sources.md",
-    "index.md",
     "IsThereAnythingElseYouWantToTalkAbout.md",
     "WhatsTheMostImportantThingForUsToGetRight.md",
     "WhatQuestionsWillRemainUnanswered.md",
-    "WhatFeedbackWouldBeMostHelpfulRightNow.md",
-    "WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress.md",
-    "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
-    "IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk.md"
+    "WhatFeedbackWouldBeMostHelpfulRightNow.md"
   ]
 }

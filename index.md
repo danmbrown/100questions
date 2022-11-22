@@ -2,7 +2,26 @@
 # 100 Questions (or more)
 **by [Dan Brown](https://www.linkedin.com/in/danmbrown/)**
 
+*"The question is our most important tool." -- Erika Hall*
+
+
+## Introduction
+
 One Hundred Questions is a project to capture my most favorite questions--the ones I ask time and again, if not on every project, then on most projects. They grew out of a quarter century of consulting, managing, directing, and researching--activities that that prioritize asking good questions.
+
+For each question, I will provide context and flavor. I want to help UX professionals cultivate their own favorite questions, and do that by providing insight into why these questions are meaningful to me. Each question also includes variations, different ways to adjust to circumstance by shifting how I ask or frame the question.
+
+### What's here
+* There are over 100 questions.
+* The `Drafts` list has questions for which I've written more detail. Each write-up follows the same structure.
+* The `Not Started` list has the rest of the questions. I'll move them up to `Drafts` when I've written something about them.
+* My [original list of questions](https://docs.google.com/spreadsheets/d/1whFvRTn-OuUXCMztTlbDpoezXBw77HbABqDRxW9g63E/edit?usp=sharing) and thought process is captured in a Google Sheet.
+
+### What's coming
+* **More detail**. I will continue to write up individual questions and move them from `Not Started` to `Drafts`.
+* **Structure**. For now, the questions are in no particular order. I just kinda dumped them here. I'd like to devise a meaningful way of organizing them.
+
+
 
 ## Drafts
 
