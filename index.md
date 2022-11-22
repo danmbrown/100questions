@@ -131,4 +131,4 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
 * [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
 
-| This project is dedicated to my dad, Professor Richard Brown, who taught me that asking good questions isn't just a method, it's a craft. |
+| This project is dedicated to my dad, [Professor Richard Brown](https://www.youtube.com/@movies101/videos), who taught me that asking good questions isn't just a method, it's a craft. |
