@@ -1,4 +1,3 @@
-
 # 100 Questions (or more)
 **by [Dan Brown](https://www.linkedin.com/in/danmbrown/)**
 
@@ -21,11 +20,12 @@ For each question, I will provide context and flavor. I want to help UX professi
 * **More detail**. I will continue to write up individual questions and move them from `Not Started` to `Drafts`.
 * **Structure**. For now, the questions are in no particular order. I just kinda dumped them here. I'd like to devise a meaningful way of organizing them.
 
-
+-------
 
 ## Drafts
 
 * [Are there any topics that are off limits?](AreThereAnyTopicsThatAreOffLimits)
+* [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
 * [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
 * [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
 * [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
@@ -39,7 +39,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 
 ## Not Started
 
-* [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
 * [How are we sacrificing the user's time or money to support our own goals?](HowAreWeSacrificingTheUsersTimeOrMoneyToSupportOurOwnGoals)
 * [How can we bring this effort to a good conclusion?](HowCanWeBringThisEffortToAGoodConclusion)
 * [How do you accommodate change?](HowDoYouAccommodateChange)
