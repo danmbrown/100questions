@@ -14,16 +14,20 @@ In my practice, research generally yields a set of design principles: guidelines
 This question occurs specifically in reviewing observations from research, potentially during a debrief from a recent interview or set of interviews. Alternatively it comes up when compiling the results of a research effort. Research reports that don't answer this question look incomplete to me, like a joke without a punchline.
 
 ## What to ask next
-After mining observations for design direction, what you can ask next is whether that direction is helpful. Principles should at once challenge the designer's thinking about the product, while providing some inspiration for how to solve the problem.
+After mining observations for design direction, what you can ask next is whether that direction is meaningful. The purpose of design is not to merely react to every observation but instead consider the impact in context. There are numerous forces exerting pressure on the design, incluing the business needs of the product, the needs of other users, not to mention technical constraints. So the next thing to ask is how to reconcile the direction from these observations with the other inputs in the design process.
 
 ## Other ways to ask
+
 ### Add a step
+
 > What does this observation tell us about what users needs out of the product?
 
 It may be difficult to go right from the observation to an insight about the product's design direction. Instead, you can tease out the direction by building toward it incrementally. Betwen an observation and a design principle is some brainstorming about product requirements, constraints, or expectations.
 
 ### Narrow the scope
+
 > How does this observation impact the product's information architecture?
 > How does this observation impact the product's feature priorities?
 > How does this observation impact the product's flow?
 
+As a prompt, the breadth of the original question doesn't offer people a comfortable starting point. Too open-ended, they might not know what direction to go in, or how detailed to be. Narrow the scope by asking about a specific aspect of the product, or tease out an insight about the observation that's difficult to see by applying it too broadly. 
