@@ -2,7 +2,7 @@
 
 # How would you explain this concept in your own words?
 ## What I'm asking
-A concept, unlike a product or a feature, is abstract and intangible. I ask people to explain a concept to understand their underlying mental model, how they explain a difficult idea to themselves. Using the word "explain" here implies that there is a learning curve, a complexity that needs to be unpacked.
+A concept, unlike a product or a feature, is abstract and intangible. I ask people to explain a concept to understand their underlying mental model, how they explain a difficult idea to themselves. Using the word "explain" here implies that there is a learning curve, a complexity that needs to be unpacked. Asking for an explanation in their own words is meant to help me see what features of the concept stand out, what metaphors, analogies, or comparisons they rely on to make sense of it.
 
 ## Who to ask
 A concept may be represented by something tangible. A designer may produce a screen or diagram to help explain the concept. But every representation of a concept is hopelessly incomplete. They might walk through the screen or diagram, but we land on this question to illuminate the entire idea behind the artifact.

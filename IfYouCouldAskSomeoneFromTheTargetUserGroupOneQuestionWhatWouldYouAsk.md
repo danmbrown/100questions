@@ -2,7 +2,7 @@
 
 # If you could ask someone from the target user group one question, what would you ask?
 ## What I'm asking
-On the surface, I'm fishing for questions to ask users, perhaps to include in a user research effort. But, really, what I'm curious about is what someone perceives as the gaps in their own knowledge about their users, visitors, customers. By getting them to focus on a single question directed at the target audience, I'm encouraging them to think about the aspect they know least about.
+On the surface, I'm fishing for questions to ask users, perhaps to include in a user research effort. But, really, what I'm curious about is what someone perceives as the gaps in their own knowledge about their users, visitors, customers. Perhaps it's not their own gaps, but gaps they perceive in the collective knowledge of their team or organization. By getting them to focus on a single question directed at the target audience, I'm encouraging them to think about the aspect they know least about, or perhaps the aspect that's most pressing.
 
 ## Who to ask
 This question illuminates misconceptions and mythologies best when asked of stakeholders who are important decision-makers, but have some distance from the users themselves. 

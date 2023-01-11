@@ -13,25 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md",
+                "file": "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef0f98913861a14d",
+            "id": "b9e83eb0bad0610d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources.md",
+                "file": "WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862715d5ecf30c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatFeedbackWouldBeMostHelpfulRightNow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c06327f846c0636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DoYouKnowWhatYourPrioritiesAre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0940e050c97a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12d8134b76fa9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4002eb33efc2047",
+  "active": "ef0940e050c97a0a",
   "lastOpenFiles": [
+    "DoYouKnowWhatYourPrioritiesAre.md",
     "index.md",
-    "HowAreThingsDifferentOneYearFromNow.md",
-    "AreThereAnyTopicsThatAreOffLimits.md",
-    "_Template.md",
-    "HowDoesThisObservationImpactTheDesign.md",
-    "Sources.md",
-    "IsThereAnythingElseYouWantToTalkAbout.md",
-    "WhatsTheMostImportantThingForUsToGetRight.md",
     "WhatQuestionsWillRemainUnanswered.md",
-    "WhatFeedbackWouldBeMostHelpfulRightNow.md"
+    "_Template.md",
+    "WhatsTheMostImportantThingForUsToGetRight.md",
+    "WhatFeedbackWouldBeMostHelpfulRightNow.md",
+    "WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress.md",
+    "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
+    "IsThereAnythingElseYouWantToTalkAbout.md",
+    "IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk.md"
   ]
 }
