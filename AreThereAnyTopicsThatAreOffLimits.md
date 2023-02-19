@@ -1,10 +1,8 @@
 ---
-context: 
-- interview/user
-- interview/stakeholder
-subject: 
-- user
-- stakeholder
+tags: 
+- context/interview
+- subject/user
+- subject/stakeholder
 ---
 
 | back to [the List](index.md) |
