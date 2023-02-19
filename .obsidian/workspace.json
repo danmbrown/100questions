@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WhatAboutThisActivityMakesMeFeelDread.md"
+                "file": "index.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ff3be9b426183ca",
+  "active": "ef0940e050c97a0a",
   "lastOpenFiles": [
-    "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "WhatAboutThisActivityMakesMeFeelDread.md",
+    "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "_Template.md",
     "index.md",
     "DoYouKnowWhatYourPrioritiesAre.md",

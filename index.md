@@ -23,21 +23,21 @@ For each question, I will provide context and flavor. I want to help UX professi
 
 ## Drafts
 
-* [Are there any topics that are off limits?](AreThereAnyTopicsThatAreOffLimits)
-* [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
-* [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
-* [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
-* [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
-* [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
-* [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
-* [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
-* [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
-* [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
-* [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
-* [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
-* [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
-* [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow)
-* [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+1. [Are there any topics that are off limits?](AreThereAnyTopicsThatAreOffLimits)
+1. [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
+1. [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
+1. [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
+1. [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
+1. [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
+1. [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
+1. [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
+1. [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
+1. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
+1. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
+1. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
+1. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
+1. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow)
+1. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
 
 ## Not Started
 
