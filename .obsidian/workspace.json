@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4002eb33efc2047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9e83eb0bad0610d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862715d5ecf30c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WhatFeedbackWouldBeMostHelpfulRightNow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c06327f846c0636",
             "type": "leaf",
             "state": {
@@ -68,6 +32,30 @@
             }
           },
           {
+            "id": "0ff3be9b426183ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "466a96d118e5e161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatDoPeopleNeedToKnowToParticipateFully.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b12d8134b76fa9dc",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "WhatAboutThisActivityMakesMeFeelDread.md"
               }
             }
           }
@@ -197,17 +185,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef0940e050c97a0a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ff3be9b426183ca",
   "lastOpenFiles": [
-    "DoYouKnowWhatYourPrioritiesAre.md",
-    "index.md",
-    "WhatQuestionsWillRemainUnanswered.md",
+    "WhatDoPeopleNeedToKnowToParticipateFully.md",
+    "WhatAboutThisActivityMakesMeFeelDread.md",
     "_Template.md",
-    "WhatsTheMostImportantThingForUsToGetRight.md",
+    "index.md",
+    "DoYouKnowWhatYourPrioritiesAre.md",
     "WhatFeedbackWouldBeMostHelpfulRightNow.md",
     "WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress.md",
     "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
-    "IsThereAnythingElseYouWantToTalkAbout.md",
-    "IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk.md"
+    "WhatQuestionsWillRemainUnanswered.md",
+    "WhatsTheMostImportantThingForUsToGetRight.md"
   ]
 }
