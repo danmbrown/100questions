@@ -1,3 +1,9 @@
+---
+tags: 
+- context/planning
+- subject/teammate
+---
+
 | back to [the List](index.md) |
 
 # Do you know what your priorities are?

@@ -1,3 +1,11 @@
+---
+tags: 
+- context/planning
+- context/performance
+- subject/teammate
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # How are things different one year from now?

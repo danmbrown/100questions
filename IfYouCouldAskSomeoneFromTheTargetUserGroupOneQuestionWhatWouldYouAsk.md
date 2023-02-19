@@ -1,3 +1,10 @@
+---
+tags: 
+- context/interview
+- subject/teammate
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # If you could ask someone from the target user group one question, what would you ask?

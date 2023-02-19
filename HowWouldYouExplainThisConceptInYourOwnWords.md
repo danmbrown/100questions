@@ -1,3 +1,10 @@
+---
+tags: 
+- context/interview
+- subject/user
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # How would you explain this concept in your own words?
