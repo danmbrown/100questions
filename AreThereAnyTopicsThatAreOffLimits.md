@@ -1,3 +1,10 @@
+---
+tags: 
+- context/interview
+- subject/user
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # Are there any topics that are off limits?

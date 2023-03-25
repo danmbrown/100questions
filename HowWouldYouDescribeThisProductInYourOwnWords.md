@@ -1,14 +1,21 @@
+---
+tags: 
+- context/interview
+- subject/user
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # How would you describe this product in your own words?
 ## What I'm asking
-By getting someone to describe a product in their own words, I'm looking for what stands out to them about the product. I want to understand how they conceive of the product in the context of their own work, and the way they understand the product's underlying model.
+By getting someone to describe a product in their own words, I'm looking for what stands out to them about the product. I want to understand how they conceive of the product in the context of their own work, and the way they understand the product's underlying model. Answering this question also sheds light on a person's expectations (or aspirations) for the product.
 
 ## Who to ask
 This is one of those questions that no one is safe from. Ask users, teammates, and stakeholders and prepare to be blown away by the range of answers. Users are perhaps the most important, to undersand how you can better align the product with their expectations. But asking others involved in the creation of the product lets you know whether the team is aligned on what they're building.
 
 ## What to expect
-There's something about the framing of "in your own words" that gets people to be deliberate about their response. It prevents them from regurgitating marketing speak, even going so far as to interpret the request as using plain language. Therefore, give them time to formulate their response. They may stumble and revise, layering one description over another. It's all useful, and there's no need to encourage them to be succinct. 
+Framing the question with "in your own words" gets folks to be deliberate about their response. It prevents them from regurgitating marketing speak, even going so far as to interpret the request as using plain language. Therefore, give them time to formulate their response. They may stumble and revise, layering one description over another. It's all useful, and there's no need to encourage them to be succinct. 
 
 ## When to ask
 Give the user a chance to experience the product before asking them this question. That is, if you're working on a new or unfamiliar product, don't expect them to have an answer at their fingertips until they've experienced it, at least for a bit. Asking this at the end of a concept testing session gives you a good summary of their impressions of the product.

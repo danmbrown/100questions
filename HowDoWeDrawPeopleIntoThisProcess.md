@@ -1,8 +1,15 @@
+---
+tags: 
+- context/planning
+- subject/teammate
+- subject/self
+---
+
 | back to [the List](index.md) |
 
 # How do we draw people into this process?
 ## What I'm asking
-Creative work demands multiple perspectives. Nothing else I've learned about the creative process looms as large in my mind. When I ask about drawing others into the process, I'm asking how we can involve more perspectives in the work. I raise this question because many activities in design are historically or temptingly solitary, but they don't have to be.
+Creative work demands multiple perspectives. Nothing else I've learned about the creative process looms as large in my mind. When I ask about drawing others into the process, I'm asking how we can involve more perspectives in the work. I'm asking to prompt for techniques and methods that encourage other people to participate. I raise this question because many activities in design are historically or temptingly solitary, but they don't have to be.
 
 ## Who to ask
 The people who need to hear this question are people in power -- folks who are used to making decisions unilaterally, or with nothing more than a consult. Design is different because it thrives on a chorus of voices. Those in power aren't decision-makers: they're conductors. Asking them this question helps them

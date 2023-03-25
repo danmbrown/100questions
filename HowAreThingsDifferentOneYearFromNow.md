@@ -1,9 +1,17 @@
+---
+tags: 
+- context/planning
+- context/performance
+- subject/teammate
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # How are things different one year from now?
 
 ## What I'm asking
-Put simply, I want to know what changes have happened between now and some imaginable time in the future. A year from now is sufficiently long to make a change, but not so far into the future to be put off by the abstraction of it. I'm asking that for the level of energy and effort this person intends to expend over the coming twelve months, what do they expect to see out of the other side of it? In some ways, I'm asking how they define success.
+Put simply, I want to know what changes they would like to see between now and some imaginable time in the future. A year from now is sufficiently long to make a change, but not so far into the future to be put off by the abstraction of it. I'm asking them to establish a goal relative to the level of energy and effort they intend to expend over the coming twelve months. In some ways, I'm asking how they define success for their efforts.
 
 Depending on the circumstance and my relationship to the person, I'm asking about what role they expect me to play in that change. This question signals, "You have my attention, you have my participation, what do you expect to be different with me here?" Moreover, it reframes a problem (what is wrong right now) to an opportunity (what do you want to strive for)?
 

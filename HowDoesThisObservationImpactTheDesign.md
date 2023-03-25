@@ -1,3 +1,9 @@
+---
+tags: 
+- context/design
+- subject/teammate
+---
+
 | back to [the List](index.md) |
 
 # How does this observation impact the design?
