@@ -29,17 +29,16 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [How does this fit into the narrative of the project?](HowDoesThisFitIntoTheNarrativeOfTheProject)
 * [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
 * [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
-* [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected)
+* [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected) <<<
 * [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
 * [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 * [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
 * [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
-* [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
+* [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) <<<
 * [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
 * [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
-* [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
-* [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow)
-* [What questions will remain unanswered?](WhatQuestionsWillRemainUnanswered)
+* [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) <<<
+* [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) <<<
 * [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
 * [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
@@ -106,6 +105,7 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What problem are you working on right now that this product might help you with?](WhatProblemAreYouWorkingOnRightNowThatThisProductMightHelpYouWith)
 * [What purpose does this serve?](WhatPurposeDoesThisServe)
 * [What questions are we trying to answer?](WhatQuestionsAreWeTryingToAnswer)
+* [What questions will remain unanswered?](WhatQuestionsWillRemainUnanswered)
 * [What role do you want to play on this project?](WhatRoleDoYouWantToPlayOnThisProject)
 * [What role does your organization play in the lives of the users?](WhatRoleDoesYourOrganizationPlayInTheLivesOfTheUsers)
 * [What should we talk about first?](WhatShouldWeTalkAboutFirst)
