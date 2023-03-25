@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "b4549ed40df98580",
   "lastOpenFiles": [
+    "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "index.md",
+    "HowIsThisDifferentFromWhatYouExpected.md",
+    "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
     "AreThereAnyTopicsThatAreOffLimits.md",
     "_Template.md",
-    "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
     "WhereDoYouExpectUsToSpendTheMostTime.md",
-    "HowIsThisDifferentFromWhatYouExpected.md",
-    "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "WhatAboutThisActivityMakesMeFeelDread.md",
     "DoYouKnowWhatYourPrioritiesAre.md",
     "HowDoesThisFitIntoTheNarrativeOfTheProject.md",

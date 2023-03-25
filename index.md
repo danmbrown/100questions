@@ -24,18 +24,24 @@ For each question, I will provide context and flavor. I want to help UX professi
 ## Drafts
 
 * [Are there any topics that are off limits?](AreThereAnyTopicsThatAreOffLimits)
+* [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
 * [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
-* [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
 * [How does this fit into the narrative of the project?](HowDoesThisFitIntoTheNarrativeOfTheProject)
 * [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
+* [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
+* [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected)
 * [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
 * [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 * [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
 * [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
+* [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
 * [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
 * [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
+* [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
 * [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow)
+* [What questions will remain unanswered?](WhatQuestionsWillRemainUnanswered)
 * [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+* [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -47,7 +53,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [How does this move the project forward?](HowDoesThisMoveTheProjectForward)
 * [How does what I'm doing help me meet my goal or objective?](HowDoesWhatImDoingHelpMeMeetMyGoalOrObjective)
 * [How does your decision-making change over the course of a year?](HowDoesYourDecisionMakingChangeOverTheCourseOfAYear)
-* [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected)
 * [How might a bad actor take advantage of the system?](HowMightABadActorTakeAdvantageOfTheSystem)
 * [How would I do this differently next time?](HowWouldIDoThisDifferentlyNextTime)
 * [How would you characterize the design problem?](HowWouldYouCharacterizeTheDesignProblem)
@@ -61,7 +66,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [If you'd had this product in hand last week, what would you have done with it?](IfYoudHadThisProductInHandLastWeekWhatWouldYouHaveDoneWithIt)
 * [Is there anything else you think I should know about?](IsThereAnythingElseYouThinkIShouldKnowAbout)
 * [Of your colleagues, who has the least understanding of what you do?](OfYourColleaguesWhoHasTheLeastUnderstandingOfWhatYouDo)
-* [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
 * [What about this situation made me so upset?](WhatAboutThisSituationMadeMeSoUpset)
 * [What are the kinds of decisions you make in a typical week?](WhatAreTheKindsOfDecisionsYouMakeInATypicalWeek)
 * [What are the risks with this approach?](WhatAreTheRisksWithThisApproach)
@@ -70,7 +74,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What aspect of the work do you find most draining?](WhatAspectOfTheWorkDoYouFindMostDraining)
 * [What aspects of the users describe the biggest differences between them?](WhatAspectsOfTheUsersDescribeTheBiggestDifferencesBetweenThem)
 * [What considerations factor into your decision-making?](WhatConsiderationsFactorIntoYourDecision-Making)
-* [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
 * [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
 * [What do you imagine is the hardest part of this effort?](WhatDoYouImagineIsTheHardestPartOfThisEffort)
 * [What do you need to make progress toward your goal?](WhatDoYouNeedToMakeProgressTowardYourGoal)
@@ -103,7 +106,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What problem are you working on right now that this product might help you with?](WhatProblemAreYouWorkingOnRightNowThatThisProductMightHelpYouWith)
 * [What purpose does this serve?](WhatPurposeDoesThisServe)
 * [What questions are we trying to answer?](WhatQuestionsAreWeTryingToAnswer)
-* [What questions will remain unanswered?](WhatQuestionsWillRemainUnanswered)
 * [What role do you want to play on this project?](WhatRoleDoYouWantToPlayOnThisProject)
 * [What role does your organization play in the lives of the users?](WhatRoleDoesYourOrganizationPlayInTheLivesOfTheUsers)
 * [What should we talk about first?](WhatShouldWeTalkAboutFirst)
@@ -115,7 +117,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What's the biggest challenge you faced last week?](WhatsTheBiggestChallengeYouFacedLastWeek)
 * [What's your favorite part of the job?](WhatsYourFavoritePartOfTheJob)
 * [When you picture the final product, how big is it?](WhenYouPictureTheFinalProductHowBigIsIt)
-* [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 * [Where do you expect us to spend the most time?](WhereDoYouExpectUsToSpendTheMostTime)
 * [Where is the leadership team least aligned?](WhereIsTheLeadershipTeamLeastAligned)
 * [Which aspect of this work was the hardest?](WhichAspectOfThisWorkWasTheHardest)
@@ -129,7 +130,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
 * [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
 * [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
-* [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
 * How can I frame this to be most meaningful to the target audience?
 * How can I help?
 
