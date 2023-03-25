@@ -73,7 +73,7 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
 * [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
 * [What do you imagine is the hardest part of this effort?](WhatDoYouImagineIsTheHardestPartOfThisEffort)
-* [What do you need to make progress on your tasks?](WhatDoYouNeedToMakeProgressOnYourTasks)
+* [What do you need to make progress toward your goal?](WhatDoYouNeedToMakeProgressTowardYourGoal)
 * [What do you want people to take away from this?](WhatDoYouWantPeopleToTakeAwayFromThis)
 * [What does a typical week look like for you?](WhatDoesATypicalWeekLookLikeForYou)
 * [What does our product do to change the lives of our users?](WhatDoesOurProductDoToChangeTheLivesOfOurUsers)
@@ -130,5 +130,7 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
 * [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
 * [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
+* How can I frame this to be most meaningful to the target audience?
+* How can I help?
 
 | This project is dedicated to my dad, [Professor Richard Brown](https://www.youtube.com/@movies101/videos), who taught me that asking good questions isn't just a method, it's a craft. |

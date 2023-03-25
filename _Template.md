@@ -1,6 +1,7 @@
 ---
-context:
-subject:
+tags:
+- context
+- subject
 ---
 
 | back to [the List](index.md) |
