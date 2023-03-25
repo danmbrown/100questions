@@ -26,18 +26,21 @@ For each question, I will provide context and flavor. I want to help UX professi
 1. [Are there any topics that are off limits?](AreThereAnyTopicsThatAreOffLimits)
 1. [Do you know what your priorities are?](DoYouKnowWhatYourPrioritiesAre)
 1. [How are things different one year from now?](HowAreThingsDifferentOneYearFromNow)
-1. [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
+1. [How does this fit into the narrative of the project?](HowDoesThisFitIntoTheNarrativeOfTheProject)
 1. [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
+1. [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
+1. [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected) <<<
 1. [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
 1. [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 1. [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
 1. [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
-1. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread)
+1. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) <<<
 1. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
 1. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
-1. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully)
-1. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow)
+1. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) <<<
+1. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) <<<
 1. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+1. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -46,11 +49,9 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [How do you accommodate change?](HowDoYouAccommodateChange)
 * [How do you see the problem differently?](HowDoYouSeeTheProblemDifferently)
 * [How do you stay up to date?](HowDoYouStayUpToDate)
-* [How does this fit into the narrative of the project?](HowDoesThisFitIntoTheNarrativeOfTheProject)
 * [How does this move the project forward?](HowDoesThisMoveTheProjectForward)
 * [How does what I'm doing help me meet my goal or objective?](HowDoesWhatImDoingHelpMeMeetMyGoalOrObjective)
 * [How does your decision-making change over the course of a year?](HowDoesYourDecisionMakingChangeOverTheCourseOfAYear)
-* [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected)
 * [How might a bad actor take advantage of the system?](HowMightABadActorTakeAdvantageOfTheSystem)
 * [How would I do this differently next time?](HowWouldIDoThisDifferentlyNextTime)
 * [How would you characterize the design problem?](HowWouldYouCharacterizeTheDesignProblem)
@@ -63,7 +64,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [If you were to meet them halfway, what would a compromise look like?](IfYouWereToMeetThemHalfwayWhatWouldACompromiseLookLike)
 * [If you'd had this product in hand last week, what would you have done with it?](IfYoudHadThisProductInHandLastWeekWhatWouldYouHaveDoneWithIt)
 * [Is there anything else you think I should know about?](IsThereAnythingElseYouThinkIShouldKnowAbout)
-* [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
 * [Of your colleagues, who has the least understanding of what you do?](OfYourColleaguesWhoHasTheLeastUnderstandingOfWhatYouDo)
 * [What about this situation made me so upset?](WhatAboutThisSituationMadeMeSoUpset)
 * [What are the kinds of decisions you make in a typical week?](WhatAreTheKindsOfDecisionsYouMakeInATypicalWeek)
@@ -72,11 +72,10 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What are you working on this week?](WhatAreYouWorkingOnThisWeek)
 * [What aspect of the work do you find most draining?](WhatAspectOfTheWorkDoYouFindMostDraining)
 * [What aspects of the users describe the biggest differences between them?](WhatAspectsOfTheUsersDescribeTheBiggestDifferencesBetweenThem)
-* [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
 * [What considerations factor into your decision-making?](WhatConsiderationsFactorIntoYourDecision-Making)
 * [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
 * [What do you imagine is the hardest part of this effort?](WhatDoYouImagineIsTheHardestPartOfThisEffort)
-* [What do you need to make progress on your tasks?](WhatDoYouNeedToMakeProgressOnYourTasks)
+* [What do you need to make progress toward your goal?](WhatDoYouNeedToMakeProgressTowardYourGoal)
 * [What do you want people to take away from this?](WhatDoYouWantPeopleToTakeAwayFromThis)
 * [What does a typical week look like for you?](WhatDoesATypicalWeekLookLikeForYou)
 * [What does our product do to change the lives of our users?](WhatDoesOurProductDoToChangeTheLivesOfOurUsers)
@@ -104,7 +103,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What makes this the most important thing for us to work on right now?](WhatMakesThisTheMostImportantThingForUsToWorkOnRightNow)
 * [What message are you trying to convey?](WhatMessageAreYouTryingToConvey)
 * [What problem are you working on right now that this product might help you with?](WhatProblemAreYouWorkingOnRightNowThatThisProductMightHelpYouWith)
-* [What problem are you trying to solve?](WhatProblemAreYouTryingToSolve)
 * [What purpose does this serve?](WhatPurposeDoesThisServe)
 * [What questions are we trying to answer?](WhatQuestionsAreWeTryingToAnswer)
 * [What questions will remain unanswered?](WhatQuestionsWillRemainUnanswered)
@@ -119,9 +117,7 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What's the biggest challenge you faced last week?](WhatsTheBiggestChallengeYouFacedLastWeek)
 * [What's your favorite part of the job?](WhatsYourFavoritePartOfTheJob)
 * [When you picture the final product, how big is it?](WhenYouPictureTheFinalProductHowBigIsIt)
-* [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 * [Where do you expect us to spend the most time?](WhereDoYouExpectUsToSpendTheMostTime)
-* [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
 * [Where is the leadership team least aligned?](WhereIsTheLeadershipTeamLeastAligned)
 * [Which aspect of this work was the hardest?](WhichAspectOfThisWorkWasTheHardest)
 * [Who are the different people you work with?](WhoAreTheDifferentPeopleYouWorkWith)
@@ -131,6 +127,10 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [Who is harmed by this?](WhoIsHarmedByThis)
 * [Why am I talking right now?](WhyAmITalkingRightNow)
 * [With whom do you collaborate regularly?](WithWhomDoYouCollaborateRegularly)
-
+* [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
+* [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
+* [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
+* How can I frame this to be most meaningful to the target audience?
+* How can I help?
 
 | This project is dedicated to my dad, [Professor Richard Brown](https://www.youtube.com/@movies101/videos), who taught me that asking good questions isn't just a method, it's a craft. |
