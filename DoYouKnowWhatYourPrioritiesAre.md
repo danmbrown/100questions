@@ -9,7 +9,7 @@ tags:
 # Do you know what your priorities are?
 
 ## What I'm asking
-Everyone has priorities, and a large part of design work entails determining or defining priorities. Every aspect of a design project has priorities, some determined explicitly by the people working on it and others implied only by what's reflected in the final product. Whether we're weighing features or business goals or types of content or user needs, you can't successfully design anything if everything is the same level of importance. For the most part, however, I ask this question to understand what a person on my team thinks they need to be working on. In this case, "priorities" refers to their tasks and activities. Successfully delivering a complex product demands that everyone know and understand their part in the process, and that likewise depends on their knowing what to focus on.
+A large part of leading and managing design work entails determining or defining priorities -- the relative importance of objectives, tasks, principles or other things that drive what we work on and how we make decisions. Every aspect of a design project has priorities, some determined explicitly by the people working on it and others implied only by what's reflected in the final product. Whether we're weighing features or business goals or types of content or user needs, you can't successfully design anything if everything is the same level of importance. For the most part, however, I ask this question to understand what a person on my team thinks they need to be working on. In this case, "priorities" refers to their tasks and activities. Successfully delivering a complex product demands that everyone know and understand their part in the process, and that likewise depends on their knowing what to focus on.
 
 ## Who to ask
 This question is almost always directed to someone on my team, someone who is responsible for doing work on a project. Generally, I'm responsible for ensuring they have tasks to do, and that they know what those tasks are. While I can tell them what their priorities are, asking them to say their priorities out loud allows me to confirm that they've internalized them the best they can. They're also making sort of a social contract, a commitment to working on something, one that is perhaps stronger than simply saying "yes, I understand what my priorities are."
@@ -36,6 +36,7 @@ But I also ask this question at the beginning of planning sessions. This offers 
 With priorities defined, a relatively clear picture of tasks to perform and aspects to focus on, my immediate follow-up is "Do you have what you need?" 
 
 ## Other ways to ask
+
 ### Focus the Scope
 > Do you know what your priorities are for the next week?
 

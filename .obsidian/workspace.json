@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4138be3b57fb5d8",
+        "id": "763a24b85b05257f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4549ed40df98580",
+            "id": "162863c599cae21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "HowAreThingsDifferentOneYearFromNow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "HowAreThingsDifferentOneYearFromNow.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "HowAreThingsDifferentOneYearFromNow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "HowAreThingsDifferentOneYearFromNow.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4549ed40df98580",
+  "active": "162863c599cae21e",
   "lastOpenFiles": [
-    "WhatDoPeopleNeedToKnowToParticipateFully.md",
+    "DoYouKnowWhatYourPrioritiesAre.md",
+    "AreThereAnyTopicsThatAreOffLimits.md",
     "index.md",
+    "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
+    "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "HowIsThisDifferentFromWhatYouExpected.md",
     "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
-    "AreThereAnyTopicsThatAreOffLimits.md",
     "_Template.md",
     "WhereDoYouExpectUsToSpendTheMostTime.md",
     "WhatAboutThisActivityMakesMeFeelDread.md",
-    "DoYouKnowWhatYourPrioritiesAre.md",
     "HowDoesThisFitIntoTheNarrativeOfTheProject.md",
     "WhatFeedbackWouldBeMostHelpfulRightNow.md",
     "WhatQuestionsWillRemainUnanswered.md",
