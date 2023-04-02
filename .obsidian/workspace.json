@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "763a24b85b05257f",
+        "id": "d0fcb147582d5f89",
         "type": "tabs",
         "children": [
           {
-            "id": "162863c599cae21e",
+            "id": "4035992043842dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowAreThingsDifferentOneYearFromNow.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "162863c599cae21e",
+  "active": "4035992043842dc6",
   "lastOpenFiles": [
+    "Introduction.md",
+    "HowAreThingsDifferentOneYearFromNow.md",
     "DoYouKnowWhatYourPrioritiesAre.md",
     "AreThereAnyTopicsThatAreOffLimits.md",
     "index.md",
