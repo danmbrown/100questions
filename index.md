@@ -21,7 +21,7 @@ For each question, I will provide context and flavor. I want to help UX professi
 
 -------
 
-## [Introduction]
+## [Introduction](Introduction)
 
 ## Drafts
 
