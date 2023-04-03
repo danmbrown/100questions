@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -196,10 +196,10 @@
   },
   "active": "ef0940e050c97a0a",
   "lastOpenFiles": [
+    "HowIsThisDifferentFromWhatYouExpected.md",
     "WhatFeedbackWouldBeMostHelpfulRightNow.md",
     "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "WhatAboutThisActivityMakesMeFeelDread.md",
-    "HowIsThisDifferentFromWhatYouExpected.md",
     "AreThereAnyTopicsThatAreOffLimits.md",
     "IsThereAnythingElseYouWantToTalkAbout.md",
     "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
