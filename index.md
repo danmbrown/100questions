@@ -3,7 +3,7 @@
 *"The question is our most important tool." -- Erika Hall*
 
 
-## Introduction
+## Preface
 
 One Hundred Questions is a project to capture my most favorite questions--the ones I ask time and again, if not on every project, then on most projects. They grew out of a quarter century of consulting, managing, directing, and researching--activities that that prioritize asking good questions.
 
@@ -20,6 +20,8 @@ For each question, I will provide context and flavor. I want to help UX professi
 * **Structure**. For now, the questions are in no particular order. I just kinda dumped them here. I'd like to devise a meaningful way of organizing them.
 
 -------
+
+## [Introduction](Introduction)
 
 ## Drafts
 

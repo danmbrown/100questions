@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a76c81008f8b29",
+        "id": "d0fcb147582d5f89",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0940e050c97a0a",
+            "id": "4035992043842dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b12d8134b76fa9dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Template.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +51,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -97,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowIsThisDifferentFromWhatYouExpected.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef0940e050c97a0a",
+  "active": "4035992043842dc6",
   "lastOpenFiles": [
-    "IsThereAnythingElseYouWantToTalkAbout.md",
+    "Introduction.md",
+    "HowAreThingsDifferentOneYearFromNow.md",
+    "DoYouKnowWhatYourPrioritiesAre.md",
+    "AreThereAnyTopicsThatAreOffLimits.md",
+    "index.md",
     "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
-    "WhatAboutThisActivityMakesMeFeelDread.md",
-    "IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk.md",
-    "HowWouldYouExplainThisConceptInYourOwnWords.md",
-    "HowWouldYouDescribeThisProductInYourOwnWords.md",
+    "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "HowIsThisDifferentFromWhatYouExpected.md",
-    "HowDoesThisObservationImpactTheDesign.md",
+    "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
+    "_Template.md",
+    "WhereDoYouExpectUsToSpendTheMostTime.md",
+    "WhatAboutThisActivityMakesMeFeelDread.md",
     "HowDoesThisFitIntoTheNarrativeOfTheProject.md",
-    "HowAreThingsDifferentOneYearFromNow.md"
+    "WhatFeedbackWouldBeMostHelpfulRightNow.md",
+    "WhatQuestionsWillRemainUnanswered.md",
+    "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
+    "Sources.md",
+    "README.md"
   ]
 }
