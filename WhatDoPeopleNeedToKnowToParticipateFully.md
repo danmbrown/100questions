@@ -1,3 +1,10 @@
+---
+tags:
+- context/planning
+- subject/self
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # What do people need to know to participate fully?

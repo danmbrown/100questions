@@ -1,3 +1,12 @@
+---
+tags:
+- context/reflection
+- context/critique
+- context/one-on-one
+- subject/teammate
+---
+
+
 | back to [the List](index.md) |
 
 # What feedback would be most helpful right now?

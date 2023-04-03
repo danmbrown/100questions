@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fcb147582d5f89",
+        "id": "d8a76c81008f8b29",
         "type": "tabs",
         "children": [
           {
-            "id": "4035992043842dc6",
+            "id": "ef0940e050c97a0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "HowIsThisDifferentFromWhatYouExpected.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ae33ed99d51c630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ede79a70297f817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatDoPeopleNeedToKnowToParticipateFully.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bcd9bb26faa924b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatFeedbackWouldBeMostHelpfulRightNow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12d8134b76fa9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +99,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,13 +133,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "HowIsThisDifferentFromWhatYouExpected.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "HowIsThisDifferentFromWhatYouExpected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "HowIsThisDifferentFromWhatYouExpected.md"
               }
             }
           }
@@ -134,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,25 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4035992043842dc6",
+  "active": "ef0940e050c97a0a",
   "lastOpenFiles": [
-    "Introduction.md",
-    "HowAreThingsDifferentOneYearFromNow.md",
-    "DoYouKnowWhatYourPrioritiesAre.md",
-    "AreThereAnyTopicsThatAreOffLimits.md",
-    "index.md",
-    "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
-    "WhatDoPeopleNeedToKnowToParticipateFully.md",
-    "HowIsThisDifferentFromWhatYouExpected.md",
-    "WhenYouveWorkedWithOtherTeamsWhatsWorkedWell.md",
-    "_Template.md",
-    "WhereDoYouExpectUsToSpendTheMostTime.md",
-    "WhatAboutThisActivityMakesMeFeelDread.md",
-    "HowDoesThisFitIntoTheNarrativeOfTheProject.md",
     "WhatFeedbackWouldBeMostHelpfulRightNow.md",
-    "WhatQuestionsWillRemainUnanswered.md",
-    "WhatAspectOfTheWorkDoYouFindMostEnergizing.md",
-    "Sources.md",
-    "README.md"
+    "WhatDoPeopleNeedToKnowToParticipateFully.md",
+    "WhatAboutThisActivityMakesMeFeelDread.md",
+    "HowIsThisDifferentFromWhatYouExpected.md",
+    "AreThereAnyTopicsThatAreOffLimits.md",
+    "IsThereAnythingElseYouWantToTalkAbout.md",
+    "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
+    "IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk.md",
+    "HowWouldYouExplainThisConceptInYourOwnWords.md",
+    "HowWouldYouDescribeThisProductInYourOwnWords.md"
   ]
 }
