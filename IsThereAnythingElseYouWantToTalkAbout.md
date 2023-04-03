@@ -1,3 +1,10 @@
+---
+tags:
+- context/one-on-one
+- subject/teammate
+- subject/stakeholder
+---
+
 | back to [the List](index.md) |
 
 # Is there anything else you want to talk about?

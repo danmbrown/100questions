@@ -1,3 +1,11 @@
+---
+tags:
+- context/planning
+- subject/self
+- subject/teammate
+- subject/leader
+---
+
 | back to [the List](index.md) |
 
 # How does this fit into the narrative of the project?

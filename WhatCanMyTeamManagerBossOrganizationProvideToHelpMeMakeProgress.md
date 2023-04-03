@@ -1,3 +1,11 @@
+---
+tags:
+- context/growth
+- context/performance
+- subject/self
+- subject/leader
+---
+
 | back to [the List](index.md) |
 
 # What can my (team, manager, boss, organization) provide to help me make progress?

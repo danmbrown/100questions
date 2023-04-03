@@ -1,7 +1,7 @@
 ---
 tags:
 - context/kickoff
-- subject/teammates
+- subject/teammate
 - subject/stakeholder
 ---
 

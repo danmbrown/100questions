@@ -1,3 +1,9 @@
+---
+tags:
+- context/reflection
+- subject/self
+---
+
 | back to [the List](index.md) |
 
 # What about this activity makes me feel dread?

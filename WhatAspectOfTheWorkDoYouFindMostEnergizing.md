@@ -1,3 +1,12 @@
+---
+tags:
+- context/growth
+- context/interview
+- subject/teammate
+- subject/self
+- subject/expert
+---
+
 | back to [the List](index.md) |
 
 # What aspect of the work do you find most energizing?
