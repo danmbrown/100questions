@@ -41,6 +41,12 @@ In other circumstances -- say in doing a stakeholder review -- I might just do s
 
 ## What to ask next
 
+What to ask next depends on circumstances. In the first circumstance, you've already gotten them to establish their expectations -- as I described in my typical approach for concept testing. Therefore, I can remind them about other things they indicated they expected. "You also said you thought this screen would let you contact someone."
+
+In another circumstance, you haven't already spoken to them about their expectations, in which case you can dig into the distinction they made. Perhaps you can focus on why the product concept doesn't meet their expectations. Alternatively, you can get them to make their answer more concrete by asking them to tell you a story. Something like, "You said you would have expected to be able to contact someone from here. Can you give me a recent example of when you needed to contact someone?"
+
+When in doubt, ask them to keep going: "Anything else? How else is this different from what you expected?"
+
 
 ## Other ways to ask
 ### Shift the target
