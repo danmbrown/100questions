@@ -13,13 +13,76 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "HowIsThisDifferentFromWhatYouExpected.md",
+=======
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5817010f9aa66985",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "5ae33ed99d51c630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatAboutThisActivityMakesMeFeelDread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ede79a70297f817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatDoPeopleNeedToKnowToParticipateFully.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bcd9bb26faa924b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatFeedbackWouldBeMostHelpfulRightNow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12d8134b76fa9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Template.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "4035992043842dc6",
+=======
+  "active": "5817010f9aa66985",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "index.md",
     "Introduction.md",
