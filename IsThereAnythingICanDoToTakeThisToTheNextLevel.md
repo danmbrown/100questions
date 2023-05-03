@@ -9,7 +9,8 @@ tags:
 
 | back to [the List](index.md) |
 
-# QUESTION
+# Is there anything I can do to take this to the next level?
+
 ## What I'm asking
 I'm whatever the opposite of a perfectionist is. I'm great at talking myself into "good enough." Part of that comes from the fact that design -- especially these days -- is highly collaborative and iterative. It's hard to push yourself when you know the work is just going back to be revised again. This is compounded even further by the fact that I believe that the absence of critique does not mean the design is good. Asking about taking the work to the next level means pushing it a little further, finding a way to take whatever groundwork has been laid and build even a little more on top of it.
 
