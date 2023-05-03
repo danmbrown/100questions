@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d697338f6a799e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e89ddd1ac71dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IsThereAnythingICanDoToTakeThisToTheNextLevel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef0940e050c97a0a",
             "type": "leaf",
             "state": {
@@ -20,31 +44,18 @@
             }
           },
           {
-            "id": "5817010f9aa66985",
+            "id": "d16e25cdd7ddbe23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17e89ddd1ac71dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "_Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e89ddd1ac71dcd",
+  "active": "d697338f6a799e0e",
   "lastOpenFiles": [
-    "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
+    "IsThereAnythingICanDoToTakeThisToTheNextLevel.md",
     "index.md",
+    "Introduction.md",
+    "HowDoWeDrawPeopleIntoThisProcess.md",
+    "_Template.md",
+    "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
     "WhereDoYouExpectUsToSpendTheMostTime.md",
     "WhatQuestionsWillRemainUnanswered.md",
-    "Introduction.md",
     "HowIsThisDifferentFromWhatYouExpected.md",
     "WhatFeedbackWouldBeMostHelpfulRightNow.md",
     "WhatDoPeopleNeedToKnowToParticipateFully.md",

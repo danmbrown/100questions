@@ -36,14 +36,15 @@ For each question, I will provide context and flavor. I want to help UX professi
 1. [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 1. [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
 1. [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
-1. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) ⇐
-1. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
-2. [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout) ⇐
-3. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
-4. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
-5. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
-6. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
-7. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
+2. [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
+3. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) ⇐
+4. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
+5. [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout) ⇐
+6. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
+7. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
+8. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
+9. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+10. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -130,9 +131,9 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [Who is harmed by this?](WhoIsHarmedByThis)
 * [Why am I talking right now?](WhyAmITalkingRightNow)
 * [With whom do you collaborate regularly?](WithWhomDoYouCollaborateRegularly)
-* [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
 * [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
 * How can I frame this to be most meaningful to the target audience?
 * How can I help?
+* How do you think the client would react to this?
 
 | This project is dedicated to my dad, [Professor Richard Brown](https://www.youtube.com/@movies101/videos), who taught me that asking good questions isn't just a method, it's a craft. |
