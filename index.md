@@ -31,18 +31,19 @@ For each question, I will provide context and flavor. I want to help UX professi
 1. [How does this fit into the narrative of the project?](HowDoesThisFitIntoTheNarrativeOfTheProject)
 1. [How does this observation impact the design?](HowDoesThisObservationImpactTheDesign)
 1. [How do we draw people into this process?](HowDoWeDrawPeopleIntoThisProcess)
-1. [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected) <<<
+1. [How is this different from what you expected?](HowIsThisDifferentFromWhatYouExpected) ⇐
 1. [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
 1. [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 1. [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
 1. [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
-1. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) <<<
+1. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) ⇐
 1. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
-1. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
-1. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) <<<
-1. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) <<<
-1. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
-1. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
+2. [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout) ⇐
+3. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
+4. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
+5. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
+6. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+7. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -131,7 +132,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [With whom do you collaborate regularly?](WithWhomDoYouCollaborateRegularly)
 * [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
 * [Where does this idea fit into the process: hypothesis? rough concept?](WhereDoesThisIdeaFitIntoTheProcess:HypothesisRoughConcept)
-* [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout)
 * How can I frame this to be most meaningful to the target audience?
 * How can I help?
 
