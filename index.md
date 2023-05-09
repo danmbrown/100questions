@@ -42,9 +42,10 @@ For each question, I will provide context and flavor. I want to help UX professi
 5. [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout) ⇐
 6. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
 7. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
-8. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
-9. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
-10. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
+1. [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
+9. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
+10. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+11. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -77,7 +78,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What aspect of the work do you find most draining?](WhatAspectOfTheWorkDoYouFindMostDraining)
 * [What aspects of the users describe the biggest differences between them?](WhatAspectsOfTheUsersDescribeTheBiggestDifferencesBetweenThem)
 * [What considerations factor into your decision-making?](WhatConsiderationsFactorIntoYourDecision-Making)
-* [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
 * [What do you imagine is the hardest part of this effort?](WhatDoYouImagineIsTheHardestPartOfThisEffort)
 * [What do you need to make progress toward your goal?](WhatDoYouNeedToMakeProgressTowardYourGoal)
 * [What do you want people to take away from this?](WhatDoYouWantPeopleToTakeAwayFromThis)
