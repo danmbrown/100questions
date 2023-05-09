@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2a832c2676ad7cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef0940e050c97a0a",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess.md"
+                "file": "index.md"
               }
             }
           }
@@ -183,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a832c2676ad7cd3",
+  "active": "d697338f6a799e0e",
   "lastOpenFiles": [
-    "index.md",
     "WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess.md",
+    "index.md",
     "IsThereAnythingICanDoToTakeThisToTheNextLevel.md",
     "_Template.md",
     "Introduction.md",
