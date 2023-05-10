@@ -35,17 +35,18 @@ For each question, I will provide context and flavor. I want to help UX professi
 1. [How would you describe this product in your own words?](HowWouldYouDescribeThisProductInYourOwnWords)
 1. [How would you explain this concept in your own words?](HowWouldYouExplainThisConceptInYourOwnWords)
 1. [If you could ask someone from the target user group one question, what would you ask?](IfYouCouldAskSomeoneFromTheTargetUserGroupOneQuestionWhatWouldYouAsk)
-1. [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
-2. [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
-3. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) ⇐
-4. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
-5. [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout) ⇐
-6. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
-7. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
-1. [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
-9. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
-10. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
-11. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
+2. [If you were coaching someone else about this product, what advice would you give them?](IfYouWereCoachingSomeoneElseAboutThisProductWhatAdviceWouldYouGiveThem)
+3. [Is there anything else you want to talk about?](IsThereAnythingElseYouWantToTalkAbout)
+4. [Is there anything I can do to take this to the next level?](IsThereAnythingICanDoToTakeThisToTheNextLevel)
+5. [What about this activity makes me feel dread?](WhatAboutThisActivityMakesMeFeelDread) ⇐
+6. [What aspect of the work do you find most energizing?](WhatAspectOfTheWorkDoYouFindMostEnergizing)
+7. [What aspects of this will your stakeholders be most interested in or concerned about?](WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout) ⇐
+8. [What can my (team, manager, boss, organization) provide to help me make progress?](WhatCanMyTeamManagerBossOrganizationProvideToHelpMeMakeProgress)
+9. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
+10. [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
+11. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
+12. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+13. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -58,14 +59,12 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [How does what I'm doing help me meet my goal or objective?](HowDoesWhatImDoingHelpMeMeetMyGoalOrObjective)
 * [How does your decision-making change over the course of a year?](HowDoesYourDecisionMakingChangeOverTheCourseOfAYear)
 * [How might a bad actor take advantage of the system?](HowMightABadActorTakeAdvantageOfTheSystem)
-* [How would I do this differently next time?](HowWouldIDoThisDifferentlyNextTime)
 * [How would you characterize the design problem?](HowWouldYouCharacterizeTheDesignProblem)
 * [How would you characterize the users of this product?](HowWouldYouCharacterizeTheUsersOfThisProduct)
 * [How would you characterize your working relationship with other members of the team?](HowWouldYouCharacterizeYourWorkingRelationshipWithOtherMembersOfTheTeam)
-* [How would you have done this differently?](HowWouldYouHaveDoneThisDifferently)
+* [How would you do this differently?](HowWouldYouDoThisDifferently)
 * [If I try something new, what do I expect to learn from it?](IfITrySomethingNewWhatDoIExpectToLearnFromIt)
 * [If you could change one thing about this product, what would it be?](IfYouCouldChangeOneThingAboutThisProductWhatWouldItBe)
-* [If you were coaching someone else about this product, what advice would you give them?](IfYouWereCoachingSomeoneElseAboutThisProductWhatAdviceWouldYouGiveThem)
 * [If you were to meet them halfway, what would a compromise look like?](IfYouWereToMeetThemHalfwayWhatWouldACompromiseLookLike)
 * [If you'd had this product in hand last week, what would you have done with it?](IfYoudHadThisProductInHandLastWeekWhatWouldYouHaveDoneWithIt)
 * [Is there anything else you think I should know about?](IsThereAnythingElseYouThinkIShouldKnowAbout)
