@@ -1,7 +1,8 @@
 ---
 tags:
-- context
-- subject
+- context/reflection
+- subject/teammate
+- subject/stakeholder
 ---
 
 | back to [the List](index.md) |

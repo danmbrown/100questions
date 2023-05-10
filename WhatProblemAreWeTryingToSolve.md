@@ -1,7 +1,10 @@
 ---
 tags:
-- context
-- subject
+- context/discovery
+- context/design
+- subject/teammate
+- subject/self
+- subject/leader
 ---
 
 | back to [the List](index.md) |
