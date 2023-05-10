@@ -45,8 +45,10 @@ For each question, I will provide context and flavor. I want to help UX professi
 9. [What do people need to know to participate fully?](WhatDoPeopleNeedToKnowToParticipateFully) ⇐
 10. [What do you expect to see come out of the other end of this process?](WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess)
 11. [What feedback would be most helpful right now?](WhatFeedbackWouldBeMostHelpfulRightNow) ⇐
-12. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
-13. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
+12. [What made this hard?](WhatMadeThisHard)
+13. [What problem are we trying to solve?](WhatProblemAreWeTryingToSolve)
+14. [What's the most important thing for us to get right?](WhatsTheMostImportantThingForUsToGetRight)
+15. [When you've worked with other teams, what's worked well?](WhenYouveWorkedWithOtherTeamsWhatsWorkedWell)
 
 ## Not Started
 
@@ -100,8 +102,6 @@ For each question, I will provide context and flavor. I want to help UX professi
 * [What is the one thing I can do to add value or make progress?](WhatIsTheOneThingICanDoToAddValueOrMakeProgress)
 * [What is your current level of motivation?](WhatIsYourCurrentLevelOfMotivation)
 * [What is your role in making decisions for the organization?](WhatIsYourRoleInMakingDecisionsForTheOrganization)
-* [What kind of feedback would be most helpful?](WhatKindOfFeedbackWouldBeMostHelpful)
-* [What made this hard?](WhatMadeThisHard)
 * [What makes this problem unique?](WhatMakesThisProblemUnique)
 * [What makes this the most important thing for us to work on right now?](WhatMakesThisTheMostImportantThingForUsToWorkOnRightNow)
 * [What message are you trying to convey?](WhatMessageAreYouTryingToConvey)
