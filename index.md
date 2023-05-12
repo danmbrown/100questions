@@ -14,6 +14,7 @@ For each question, I will provide context and flavor. I want to help UX professi
 * The `Drafts` list has questions for which I've written more detail. Each write-up follows the same structure.
 * The `Not Started` list has the rest of the questions. I'll move them up to `Drafts` when I've written something about them.
 * My [original list of questions](https://docs.google.com/spreadsheets/d/1whFvRTn-OuUXCMztTlbDpoezXBw77HbABqDRxW9g63E/edit?usp=sharing) and thought process is captured in a Google Sheet.
+* A [Proposal](Proposal.md), targeted at prospective publishers.
 
 ### What's coming
 * **More detail**. I will continue to write up individual questions and move them from `Not Started` to `Drafts`.
