@@ -1,14 +1,13 @@
 | back to [the List](index.md) |
 
-# 100 Questions
-## For people designing digital products
+# 100 Questions: For people designing digital products
 
 ## Synopsis
 The design process is comprised of a long string of questions. ***100 Questions*** collects my favorite questions, the ones I ask on every project, the ones the fuel creativity the best.
 
 ## Objectives
-* The purpose of 100 Questions is to give designers working on digital products a library of questions they can use in their own processes.
-* But beyond the questions themselves, 100 Questions is a treatise on inquiry, curiosity, and listening -- essential atrributes of the practicing designer.
+* The purpose of ***100 Questions*** is to give designers working on digital products a library of questions they can use in their own processes.
+* But beyond the questions themselves, ***100 Questions*** is a treatise on inquiry, curiosity, and listening -- essential atrributes of the practicing designer.
 * Through the 100 questions, designers will learn how to ask better questions, and how to listen.
 
 ## Structure
