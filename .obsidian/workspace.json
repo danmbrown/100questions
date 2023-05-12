@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55a1a8776907ccf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "967b0d0a1487379b",
+            "id": "95001aba52c27a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "WhatMadeThisHard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a1a8776907ccf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HowWouldYouCharacterizeTheUsersOfThisProduct.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +86,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "WhatProblemAreWeTryingToSolve.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "WhatProblemAreWeTryingToSolve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "WhatProblemAreWeTryingToSolve.md"
               }
             }
           }
@@ -195,21 +194,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef0940e050c97a0a",
+  "active": "95001aba52c27a2b",
   "lastOpenFiles": [
-    "WhatMadeThisHard.md",
+    "HowWouldYouCharacterizeTheUsersOfThisProduct.md",
     "WhatProblemAreWeTryingToSolve.md",
-    "index.md",
+    "WhatMadeThisHard.md",
+    "HowIsThisDifferentFromWhatYouExpected.md",
     "IfYouWereCoachingSomeoneElseAboutThisProductWhatAdviceWouldYouGiveThem.md",
-    "_Template.md",
     "WhatDoYouExpectToSeeComeOutOfTheOtherEndOfThisProcess.md",
     "IsThereAnythingICanDoToTakeThisToTheNextLevel.md",
+    "_Template.md",
+    "index.md",
     "Introduction.md",
     "HowDoWeDrawPeopleIntoThisProcess.md",
     "WhatAspectsOfThisWillYourStakeholdersBeMostInterestedInOrConcernedAbout.md",
     "WhereDoYouExpectUsToSpendTheMostTime.md",
     "WhatQuestionsWillRemainUnanswered.md",
-    "HowIsThisDifferentFromWhatYouExpected.md",
     "WhatFeedbackWouldBeMostHelpfulRightNow.md",
     "WhatDoPeopleNeedToKnowToParticipateFully.md",
     "WhatAboutThisActivityMakesMeFeelDread.md",

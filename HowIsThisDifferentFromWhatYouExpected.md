@@ -12,7 +12,7 @@ tags:
 # How is this different from what you expected?
 
 ## What I'm asking
-Before getting at the crux of this question, I should say what I mean by "this". In most cases, I use this question when sharing something that I've created -- a design concept usually, but occasionally a deliverable to clients. In the question "this" is whatever they're looking at right now -- a screen design, a diagram, a bit of text.
+Before getting at the crux of this question, I should say what I mean by "this". In most cases, I use this question when sharing something that I've created -- a design concept usually, but occasionally a deliverable to clients. In the question "this" is whatever they're looking at right now -- a screen design, a diagram, a bit of text. Generally, I've preceded this question with "What do you expect to see?" giving us an explicit foil.
 
 Seeing something new is always a bit of a shock. People experience a momentary cognitive dissonance as they reconcile what they see with what they expected. I love watching someone absorb something new, and I picture their neurons forging connections. Through this question, I'm asking them to articulate this process. This question asks them to draw attention to the aspects of what they're looking at that were the most difficult to reconcile with what they thought they would see.
 
