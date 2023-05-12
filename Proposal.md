@@ -24,7 +24,7 @@ Finally, each description will end with strategies on how to adapt the question 
 The questions will be presented in alphabetical order, for lack of a better way of organizing them.   The questions are versatile, and defy simple categorization, much less linear ordering. But each question will be tagged. Some tags will describe context -- where and when the question is most useful. Some tags will describe subjects -- who you might ask the question. I hope there is an index that lists the questions by tag.
 
 ## Target Audience
-
+The ideal reader for 100 Questions is a designer or product manager. They want to level-up their question-asking ability by thinking about the questions they do ask (or might ask) -- how they're phrased, what they expect, and how they fit into the design process. Although this book is ostensibly a list of questions, it is not for people who just want to know what questions to ask. Instead, it is targeted at those who engage in reflective practice about their approach to design, research, management, and leadership.
 
 ## About the Author
 Dan Brown is an information architect and user experience designer based in Washington, DC. He has written three books on UX design, published dozens of articles, and spoken all over the world.
