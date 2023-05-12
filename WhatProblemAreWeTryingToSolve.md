@@ -9,7 +9,8 @@ tags:
 
 | back to [the List](index.md) |
 
-# QUESTION
+# What problem are we trying to solve?
+
 ## What I'm asking
 A design problem -- or just "problem" -- describes the aspect of the world we want to make better. At its most abstract, a design problem describes an obstacle that prevents a user from accomplishing a goal. One view of design is that it's methodology for solving problems. So the idea of "problem" comes up a lot in doing design.
 
