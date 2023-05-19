@@ -24,7 +24,11 @@ This question is almost always directed at the core team -- the main group of pe
 But sometimes I ask myself this question. It's grounding and reflective -- meditative, even. It's a way for me to refocus my effort and ensure the work I'm doing, even if it feels off track, at least contributes to the central purpose of the effort. A problem is, in essence, a purpose -- a reason for doing what we're doing. By asking this question of myself, I'm reminding myself of my purpose.
 
 ## What to expect
-Sometimes I don't know how to answer this question, so I rummage around in the project materials to find out what we've said before. What I'll find is a previous incarnation of our problem statement. Or maybe I won't find anything where we formally articulated the problem statement. 
+Sometimes I don't know how to answer this question, so I rummage around in the project materials to find out what we've said before. What I'll find is a previous incarnation of our problem statement. Or maybe I won't find anything where we formally articulated the problem statement. It becomes an opportunity for me to restate, reframe, or just reveal the problem. It turns into an excuse to regurgitate the problem statement from whatever state it's in right now and ensure we're all on the same page with the problem we're trying to solve.
+
+When asking others, though, I'm listening for how they frame the problem -- what aspects they emphasize, what perspectives they use. Maybe I'll hear a difference with how they've framed it previously. Or maybe their response won't align with my understanding of the problem. Noticing  any of these discrepancies give us a chance to call attention to them and reconcile them. I usually transition into this stage of the conversation by saying "I want to make sure we're aligned in the problem we're trying to solve here."
+
+Sometimes, though, they say something completely unexpected. On a current project, the product manager is dealing with so many perspectives, variables, and pressures, the answer changes completely almost every time we ask it. Sometimes they state the problem from the user's perspective and sometimes they will describe a feature we need to add to the product. Sometimes they'll focus on the technical constraints. It can be whiplash, often shifting the problem space altogether. As above, I take this opportunity to clarify the problem. "Wait," I'll say, "I thought we were focused on this." I don't find these conversations discouraging (any more - I used to) but instead necessary to any design process, a constant effort to reframe and realign.
 
 ## When to ask
 It seems like this is where you need to start design, by articulating the problem. You can ask this at the very beginning of a project, but I have a hypothesis about how design works. That hypothesis is that we never truly understand the design problem. We have, let's say, an understanding that starts very blurry and comes increasingly into focus, but never reaching complete clarity. So, it's worth asking this question again and again. Every activity in the design process brings the problem a little further into focus. As part of discovery, ask this question (or some version of it) after every activity. Finish a round of stakeholder interviews? Ask the team how they would characterize the design problem now. Run a baseline usability test? Ask the team about the design problem. Run a low-fi brainstorming effort? Ask about the problem. Every step offers increasing clarity, but we'll never get at that problem in focus if we don't ask.
@@ -40,8 +44,4 @@ But in asking the question, we the team might also see the problem in a new ligh
 ### Shift the tone
 > Have we solved the problem?
 
-
-
-### Narrow the scope
-> ALTERNATE
-
+Instead of asking directly to articulate the problem, you can instead ask whether a design concept or potential solution actually addresses the problem. It's a nice way of compeling the team to re-state the intent of the design, even articulating criteria defining what a good solution looks like.
