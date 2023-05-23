@@ -8,6 +8,11 @@ At the heart of this approach, at the intersection of these three aspects of the
 
 Earlier I said that the design process yields at its conclusion a product of value and utility. Designers of all stripes will see the fallacy of that statement. Design never really has a conclusion. It has, instead, a series of convenient (or inconvenient) places to pause. What goes into a product is a collection of assertions about how the product looks and behaves: design decisions. Those decisions didn't come from the ether. They came from deliberation. They came from considering questions -- big ones like "what problem are we trying to solve?" and small ones like "what should the label on this button say?"; complex ones like "how should we model the domain" and fraught ones like "which user group is most important". Answers yield more questions and yet somehow, whether through grit and resilience or miracle and luck, we design stuff.
 
+## The Reader
+* I'm writing for someone involved in user experience -- usually a designer or researcher.
+* I believe these questions would be relevant and useful for product managers, too, and other leadership on a product team.
+* Ultimately, this book is for people actively working on projects to design digital products.
+
 ## Assumptions
 
 * I believe that people do their best to answer your questions.
